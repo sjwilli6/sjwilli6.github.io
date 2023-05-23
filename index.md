@@ -14,4 +14,4 @@ I can be reached at sjwilli6@ncsu.edu. I am available to collaborate on most wee
 ## Fun Facts About Me
 I am an avid sports fan. I enjoy watching all of baseball, football, basketball, and hockey. Lately, I have been watching the **Carolina Hurricane's** run in the NHL playoffs. 
 
-![](/Documents/Hurricanes.png)
+![image](https://github.com/sjwilli6/spencerwilliams.github.io/assets/98558099/963b5a54-f913-4470-b3b9-0c59885fd34a)
