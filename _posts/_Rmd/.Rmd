@@ -1,0 +1,6 @@
+---
+title: "Programming Background"
+name: "Spencer Williams"
+---
+
+## Thoughts on R
