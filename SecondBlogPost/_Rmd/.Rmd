@@ -9,3 +9,6 @@ I have used a couple different software programs in my career and at NCSU. I hav
 
 ## Example Rmarkdown output
 
+ ```
+plot(iris)
+ ```
