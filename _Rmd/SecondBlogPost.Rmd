@@ -1,7 +1,7 @@
 ---
 title: "Programming Background"
 author: "Spencer Williams"
-output: rmarkdown::github_document
+output: github_document
 ---
 
 ## Thoughts on R
@@ -12,7 +12,7 @@ I have used a couple different software programs in my career and at NCSU. I hav
 
 ```
 {r plot, echo = TRUE, dev = c("png", "jpg", "tiff")}
-![](plot(iris))
+plot(iris)
 ```
 
 ```
