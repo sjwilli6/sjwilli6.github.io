@@ -19,8 +19,8 @@ understand what we are trying to code.
 
 ## Example Rmarkdown output
 
-    {edit2, echo = TRUE}
+    {r edit2, echo = TRUE}
     knitr::opts_chunk$set(fig.path = "/Documents/ST558/sjwilli6.github.io/images/")
 
-    {plot, echo = TRUE, fig.height = 4, dev='jpeg'}
+    {r plot, echo = TRUE, dev = c("png", "jpg", "tiff")}
     plot(iris)
