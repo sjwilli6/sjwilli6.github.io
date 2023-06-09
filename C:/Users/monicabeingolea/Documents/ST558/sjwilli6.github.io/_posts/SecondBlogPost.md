@@ -1,3 +1,7 @@
+Programming Background
+================
+Spencer Williams
+
 ## Thoughts on R
 
 I have used a couple different software programs in my career and at
