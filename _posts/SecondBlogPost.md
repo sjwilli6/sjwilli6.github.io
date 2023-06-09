@@ -23,4 +23,4 @@ understand what we are trying to code.
     knitr::opts_chunk$set(fig.path = "/Documents/ST558/sjwilli6.github.io/images/")
 
     {r plot, echo = TRUE, dev = c("png", "jpg", "tiff")}
-    plot(iris)
+    ![iris_plot](plot(iris))
