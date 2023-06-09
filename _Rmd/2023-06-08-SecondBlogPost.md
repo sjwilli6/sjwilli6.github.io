@@ -19,7 +19,7 @@ understand what we are trying to code.
 
 ## Example Rmarkdown output
 
-    {r iris, include = TRUE}
+    {r iris, echo = TRUE}
     plot(iris)
 
     {r edit2, echo = TRUE}
