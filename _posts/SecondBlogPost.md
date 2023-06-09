@@ -22,5 +22,5 @@ understand what we are trying to code.
     {edit2, echo = TRUE}
     knitr::opts_chunk$set(fig.path = "/Documents/ST558/sjwilli6.github.io/images/")
 
-    {plot, echo = TRUE}
+    {plot, echo = TRUE, fig.height = 4, dev='jpeg'}
     plot(iris)
