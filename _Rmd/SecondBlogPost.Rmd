@@ -34,7 +34,7 @@ I have used a couple different software programs in my career and at NCSU. I hav
 
 ## Example Rmarkdown output
 ```
-knitr::opts_chunk$set(fig.path = "../images/")
+knitr::opts_chunk$set(fig.path = "C://Users/monicabeingolea/Documents/ST558/sjwilli6.github.io//images/")
 ```
 
 ```
