@@ -23,4 +23,4 @@ understand what we are trying to code.
     plot(iris)
 
     {r edit2, echo = TRUE}
-    knitr::opts_chunk$set(fig.path = "images")
+    knitr::opts_chunk$set(fig.path = "../images/")
