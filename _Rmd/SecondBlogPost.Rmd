@@ -10,7 +10,7 @@ I have used a couple different software programs in my career and at NCSU. I hav
 
 ## Example Rmarkdown output
 ```
-{edit2, echo = FALSE}
+{edit2, echo = TRUE}
 knitr::opts_chunk$set(fig.path = "C://Users/monicabeingolea/Documents/ST558/sjwilli6.github.io/images/")
 ```
 

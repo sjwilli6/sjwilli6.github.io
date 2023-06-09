@@ -19,7 +19,7 @@ understand what we are trying to code.
 
 ## Example Rmarkdown output
 
-    {edit2, echo = FALSE}
+    {edit2, echo = TRUE}
     knitr::opts_chunk$set(fig.path = "C://Users/monicabeingolea/Documents/ST558/sjwilli6.github.io/images/")
 
     {plot, echo = TRUE}
