@@ -22,7 +22,7 @@ Programming Background
     library(rmarkdown)
     render("SecondBlogPost.Rmd",
             output_format = "markdown"
-            output_dir = "C://Users/monicabeingolea/Documents/ST558/sjwilli6.github.io/sjwilli6.github.io"
+            output_dir = "C://Users/monicabeingolea/Documents/ST558/sjwilli6.github.io/sjwilli6.github.io/SecondBlogPost/_Rmd.md"
             output_options = list(md_extensions = "-markdown_in_html_blocks")
             )
 
