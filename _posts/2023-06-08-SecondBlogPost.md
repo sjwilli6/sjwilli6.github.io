@@ -20,7 +20,7 @@ understand what we are trying to code.
 ## Example Rmarkdown output
 
     {r render_image, echo = TRUE}
-    ![iris_plot] (/Users/monicabeingolea/Documents/ST558/iris_plot.png)
+    plot(iris)
 
     {r edit2, echo = TRUE}
     knitr::opts_chunk$set(fig.path = "../images/")
