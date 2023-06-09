@@ -11,8 +11,8 @@ I have used a couple different software programs in my career and at NCSU. I hav
 ## Example Rmarkdown output
 
 ```
-{r plot, echo = TRUE, dev = c("png", "jpg", "tiff")}
-plot(iris)
+{r render_image, echo = TRUE}
+![iris_plot] (/Users/monicabeingolea/Documents/ST558/iris_plot.png)
 ```
 
 ```
