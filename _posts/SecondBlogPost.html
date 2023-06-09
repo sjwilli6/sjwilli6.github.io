@@ -617,11 +617,11 @@ that having previous SAS experience in undergrad and other grad classes
 has helped me with learning R. Having any software experience helps
 understand what we are trying to code.</p>
 <h2 id="example-rmarkdown-output">Example Rmarkdown output</h2>
-<pre><code>{r edit2, echo = TRUE}
-knitr::opts_chunk$set(fig.path = &quot;/Users/monicabeingolea/Documents/ST558/sjwilli6.github.io/images/&quot;)
+<pre><code>{r plot, echo = TRUE, dev = c(&quot;png&quot;, &quot;jpg&quot;, &quot;tiff&quot;)}
+![](plot(iris))
 
-{r plot, echo = TRUE, dev = c(&quot;png&quot;, &quot;jpg&quot;, &quot;tiff&quot;)}
-![iris_plot](/Users/monicabeingolea/Documents/ST558/iris_plot.png)</code></pre>
+{r edit2, echo = TRUE}
+knitr::opts_chunk$set(fig.path = &quot;/Users/monicabeingolea/Documents/ST558/sjwilli6.github.io/images/&quot;)</code></pre>
 
 </body>
 </html>
