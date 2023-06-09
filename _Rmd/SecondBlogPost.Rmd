@@ -4,6 +4,7 @@ output: rmarkdown::github_document
 ---
 
 ```
+{edit1, echo = FALSE}
 library(rmarkdown)
 render("SecondBlogPost.Rmd",
         output_format = "markdown"
@@ -18,10 +19,12 @@ I have used a couple different software programs in my career and at NCSU. I hav
 
 ## Example Rmarkdown output
 ```
+{edit2, echo = FALSE}
 knitr::opts_chunk$set(fig.path = "C://Users/monicabeingolea/Documents/ST558/sjwilli6.github.io/images/")
 ```
 
 ```
+{plot, echo = TRUE}
 plot(iris)
 ```
 
