@@ -1,1 +1,4 @@
-
+``````
+{r plot, echo = TRUE}
+plot(iris)
+```
