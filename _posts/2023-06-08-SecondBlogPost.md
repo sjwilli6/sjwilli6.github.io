@@ -19,10 +19,8 @@ understand what we are trying to code.
 
 ## Example Rmarkdown output
 
-Iris Plot Example
+    {r edit2, echo = TRUE}
+    knitr::opts_chunk$set(fig.path = "../images/")
 
     {r iris, include = TRUE}
     plot(iris)
-
-    {r edit2, echo = TRUE}
-    knitr::opts_chunk$set(fig.path = "../images/")
