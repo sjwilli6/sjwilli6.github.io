@@ -19,6 +19,8 @@ understand what we are trying to code.
 
 ## Example Rmarkdown output
 
+Iris Plot
+
     {r iris, include = TRUE}
     plot(iris)
 
