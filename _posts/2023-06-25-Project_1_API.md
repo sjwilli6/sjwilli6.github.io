@@ -13,8 +13,6 @@ If I were to do this differently in the future, I think that I would pick a diff
 
 I enjoyed doing this project and it allowed me to do certain things I have never done before. This project has made  me more confident using R and Github.  
 
-In your blog post, provide a link to your github pages repo and the regular repo (nongithub pages site) as well! The URL to this (rendered) blog post is what you will submit at the project assignment link.
-
 [Main Github Repo](https://github.com/sjwilli6/sjwilli6.github.io)
 
 [Project Repo](https://github.com/sjwilli6/Project1-API)
