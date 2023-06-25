@@ -17,4 +17,4 @@ In your blog post, provide a link to your github pages repo and the regular repo
 
 [Main Github Repo](https://github.com/sjwilli6/sjwilli6.github.io)
 
-[Project Repo]
+[Project Repo](https://github.com/sjwilli6/Project1-API)
