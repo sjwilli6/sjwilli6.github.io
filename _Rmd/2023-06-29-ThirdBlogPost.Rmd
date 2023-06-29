@@ -1,0 +1,13 @@
+---
+title: "Third Blog Post"
+author: "Spencer Williams"
+date: "2023-06-29"
+output: 
+  github_document:
+    toc: true
+    html_preview: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
