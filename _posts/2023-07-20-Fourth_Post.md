@@ -25,8 +25,8 @@ if(input$conservation){
       }
 ```
 
-(<img width="891" alt="Graph" src="https://github.com/sjwilli6/sjwilli6.github.io/assets/98558099/0176fa7c-3f62-4d55-bc13-fde9af2ea30c">
-)
+<img width="891" alt="Graph" src="https://github.com/sjwilli6/sjwilli6.github.io/assets/98558099/0176fa7c-3f62-4d55-bc13-fde9af2ea30c">
+
 
 
 
