@@ -8,7 +8,7 @@ I have found the Shiny R App creation and different methods for updating the UI 
 
 The conditionalPanel() method is unique to me in that I can change change plots or tables depending on the user checking a box within the app. Before this section, I would have had no idea where to begin in trying to create this operation.
 
-For example, on the most recent homework, I used this line of code in the server.R file:
+For example, on the most recent homework, I used this line of code in the server.R file. This produced the following graph with check boxes that would manipulate the graph details.
 
 ```
 if(input$conservation){
@@ -25,7 +25,7 @@ if(input$conservation){
       }
 ```
 
-![](<img width="891" alt="Graph" src="https://github.com/sjwilli6/sjwilli6.github.io/assets/98558099/0176fa7c-3f62-4d55-bc13-fde9af2ea30c">
+![Homework:10](<img width="891" alt="Graph" src="https://github.com/sjwilli6/sjwilli6.github.io/assets/98558099/0176fa7c-3f62-4d55-bc13-fde9af2ea30c">
 )
 
 
