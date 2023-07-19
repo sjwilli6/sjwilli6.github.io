@@ -1,7 +1,7 @@
 ---
 title: "Fourth Blog Post"
 author: "Spencer Williams"
-date: "2023-06-29"
+date: "2023-07-20"
 ---
 
 I have found the Shiny R App creation and different methods for updating the UI are the most interesting to me. In other classes, I have seen professors use these shiny apps to produce different graphs from different distributions or samples. I had no idea that these were produced in R and that I can produce these now.
